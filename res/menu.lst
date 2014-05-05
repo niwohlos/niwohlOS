@@ -1,0 +1,24 @@
+default 0
+timeout 10
+
+setkey parenleft asterisk
+setkey semicolon less
+setkey percent caret
+setkey slash ampersand
+setkey Y Z
+setkey y z
+setkey Z Y
+setkey less numbersign
+setkey underscore question
+setkey equal parenright
+setkey ampersand percent
+setkey minus slash
+setkey parenright parenleft
+setkey colon greater
+setkey plus bracketright
+setkey question underscore
+setkey numbersign backslash
+setkey greater bar
+setkey asterisk braceright
+setkey doublequote at
+setkey z y
